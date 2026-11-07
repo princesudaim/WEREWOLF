@@ -1,0 +1,181 @@
+{
+  "removed_files": [
+    {
+      "path": "Werewolf-Game/Source/src/App.tsx",
+      "size": 9424,
+      "sha256": "3e2ea8a8bf024a7b9a4934e482d49647c2279b9b5262464fe4f78fd35fed0447"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/components/Avatar.tsx",
+      "size": 9202,
+      "sha256": "11f38cc5edf35bd0a286a3a5121550b4d0f9866b3ce34ee84af7dfc77f811f52"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/components/DayScreen.tsx",
+      "size": 10969,
+      "sha256": "941a7534adb56df6f9bc60e0c42b37766133558e707270a924f3fc7b88161239"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/components/GameOverScreen.tsx",
+      "size": 8425,
+      "sha256": "067923b64ef99a6098f47fdaf20bfed235db0d462488a8b71912075d2867dd39"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/components/LobbyScreen.tsx",
+      "size": 15367,
+      "sha256": "3e921bec9acb136112d09a9668a28669a13de35848fffce517a7ded9f1e0dd7b"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/components/NightScreen.tsx",
+      "size": 20152,
+      "sha256": "5d94e05353409b73598b0f6cc4fc68645d247bb17a65a34be3bbebc9a77c48c0"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/components/RevealScreen.tsx",
+      "size": 6547,
+      "sha256": "e356329eae1cef0f02700295dffa0c4eed7ca242f8b858fcb8049d20bc0b68e5"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/components/SettingsScreen.tsx",
+      "size": 12508,
+      "sha256": "f17b384dbffc38bf393b1ab84c36a40848d2197f5ba76fd9e15a2e763c9576b3"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/components/StartScreen.tsx",
+      "size": 8337,
+      "sha256": "e37e4186aa172ca37566ffb4e13da3d861afa54266127cb873e25cda1ed0b399"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/components/ui.tsx",
+      "size": 20510,
+      "sha256": "22bfb7019b1bb2418da99ca373a091f2026862e4442fd59222f8e90388541732"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/index.css",
+      "size": 5776,
+      "sha256": "f84d2b0b1dd2f03cb75f9ea167837a4f211e71a8a861e31e1933716ac5ee0529"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/lib/audio.ts",
+      "size": 1621,
+      "sha256": "72e119f0dd8d1d8eefebaeb7f61e7665e0c4e2ebadb27565dc5e97adc0facd11"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/lib/avatars.ts",
+      "size": 3579,
+      "sha256": "51388d267e349216be1a206081d3d66242f4c721d53d9f734db0c2286ea66ad8"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/lib/engine.ts",
+      "size": 13941,
+      "sha256": "eefd3472cec2adbdf5d8ff996fdc8304f718ba74e9fef7373cedf37c53a679fc"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/lib/fx.ts",
+      "size": 6374,
+      "sha256": "a769ffa38ba21f681d6c3ed878e407a800f0048ccc68fc5ab6d416fe3527ae97"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/lib/storage.ts",
+      "size": 1626,
+      "sha256": "4a584ab68b94f28ed5a94dda5e35c908b572d29885282e959623f68c85026fb0"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/lib/types.ts",
+      "size": 3121,
+      "sha256": "9e1249e4d7506974881aa2efe6d472f214635ca3ca11b5afccb07bc4b51d4584"
+    },
+    {
+      "path": "Werewolf-Game/Source/src/utils/cn.ts",
+      "size": 169,
+      "sha256": "d1f1e0d62cb8d8d1e04c26e14de842d8a151f75812d81b046c65b5d1fe8e4b27"
+    },
+    {
+      "path": "Werewolf-Game/Source/public/avatars/crew-12.jpg",
+      "size": 5152,
+      "sha256": "fd03872182537a0958bd3d8411faa2af45416ccd7da641a97b11a5628d7c626f"
+    },
+    {
+      "path": "Werewolf-Game/Source/public/avatars/crew-13.jpg",
+      "size": 6353,
+      "sha256": "68a252b41288c574fee1ad20a898d7543e60a9452e3c5bb455b0bf45674d71ad"
+    },
+    {
+      "path": "Werewolf-Game/Source/public/avatars/crew-14.jpg",
+      "size": 2784,
+      "sha256": "dd28c8ce674ed1dcebaa4bc304f1ca15d5ecde5aa2eeccf44062eac5b62fb812"
+    },
+    {
+      "path": "Werewolf-Game/Source/public/avatars/crew-15.png",
+      "size": 1771454,
+      "sha256": "712cc31b5b0a8ff5d78f24b54bdf1f4a0ce2dbb554da91beb994547683776e65"
+    },
+    {
+      "path": "Werewolf-Game/Website/avatars/crew-12.jpg",
+      "size": 5152,
+      "sha256": "fd03872182537a0958bd3d8411faa2af45416ccd7da641a97b11a5628d7c626f"
+    },
+    {
+      "path": "Werewolf-Game/Website/avatars/crew-13.jpg",
+      "size": 6353,
+      "sha256": "68a252b41288c574fee1ad20a898d7543e60a9452e3c5bb455b0bf45674d71ad"
+    },
+    {
+      "path": "Werewolf-Game/Website/avatars/crew-14.jpg",
+      "size": 2784,
+      "sha256": "dd28c8ce674ed1dcebaa4bc304f1ca15d5ecde5aa2eeccf44062eac5b62fb812"
+    },
+    {
+      "path": "Werewolf-Game/Website/avatars/crew-15.png",
+      "size": 1771454,
+      "sha256": "712cc31b5b0a8ff5d78f24b54bdf1f4a0ce2dbb554da91beb994547683776e65"
+    },
+    {
+      "path": "Werewolf-Game/Source/scripts/__pycache__/prepare-card-reveals.cpython-311.pyc",
+      "size": 16025,
+      "sha256": "74d078cb1fea3bc6a3c7056a1f087ea3661f3c0553f5045dd6ac8feb56354472"
+    }
+  ],
+  "removed_direct_dependencies": [
+    "clsx",
+    "tailwind-merge",
+    "tailwindcss",
+    "@tailwindcss/vite"
+  ],
+  "removed_lockfile_package_entries": [
+    "node_modules/@tailwindcss/node",
+    "node_modules/@tailwindcss/oxide",
+    "node_modules/@tailwindcss/oxide-android-arm64",
+    "node_modules/@tailwindcss/oxide-darwin-arm64",
+    "node_modules/@tailwindcss/oxide-darwin-x64",
+    "node_modules/@tailwindcss/oxide-freebsd-x64",
+    "node_modules/@tailwindcss/oxide-linux-arm-gnueabihf",
+    "node_modules/@tailwindcss/oxide-linux-arm64-gnu",
+    "node_modules/@tailwindcss/oxide-linux-arm64-musl",
+    "node_modules/@tailwindcss/oxide-linux-x64-gnu",
+    "node_modules/@tailwindcss/oxide-linux-x64-musl",
+    "node_modules/@tailwindcss/oxide-wasm32-wasi",
+    "node_modules/@tailwindcss/oxide-win32-arm64-msvc",
+    "node_modules/@tailwindcss/oxide-win32-x64-msvc",
+    "node_modules/@tailwindcss/vite",
+    "node_modules/clsx",
+    "node_modules/enhanced-resolve",
+    "node_modules/graceful-fs",
+    "node_modules/magic-string",
+    "node_modules/tailwind-merge",
+    "node_modules/tailwindcss",
+    "node_modules/tapable"
+  ],
+  "kept": "All71currentWAV files,all19currentavatars(including7suppliedoriginals),35rolemarkerartworks,allcurrentroleart/skins/backgrounds/fonts,gameplay/scoring/recovery.",
+  "archive_only_exclusions": [
+    "editable source and tests",
+    "node_modules",
+    ".git",
+    ".cache",
+    "environment files",
+    "Python/editor caches",
+    "older ZIPs",
+    "private browser data"
+  ],
+  "reason": "18unreachable starter UI/engine/style files;4unused starter photos and their local source copies;1generated.pyc. No current sound removed."
+}

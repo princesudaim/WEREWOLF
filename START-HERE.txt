@@ -1,0 +1,11 @@
+WEREWOLF — CLEAN LAUNCH ccb7605348df
+
+1. Extract ALL files.
+2. Run python3 VERIFY-LAUNCH.py (or py VERIFY-LAUNCH.py on Windows).
+3. Publish this entire folder, keeping index.html and werewolf/ at the same level.
+4. Give AI-PUBLISH-GUIDE.md to your AI. It explains sounds, avatars, publishing and cache/download confusion.
+5. CLEANUP-REPORT.md lists everything removed; RELEASE.json lists every runtime file hash.
+
+Local test: python3 -m http.server 8000 then http://localhost:8000 on that computer.
+Offline cache is inside the browser, NOT a ZIP in Downloads. Use the shared file/Drive DOWNLOAD action to get this ZIP. No Download Game button.
+No source build, API, database or secrets are required to host this folder. Do not clear browser storage or force updates during an active match.
