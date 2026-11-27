@@ -1,5 +1,5 @@
 {
-  "revision": "26268a1885bf",
+  "revision": "bdf67b366413",
   "launch_layout": "index.html and assets at ZIP root",
   "website_files": {
     "icons/icon-512.png": {
@@ -11,8 +11,8 @@
       "sha256": "3d1d6e8ab0b46d72ed1a8ada60e3165363ae89ebea5ea3998e001b7def49dd89"
     },
     "index.html": {
-      "size": 1541271,
-      "sha256": "78743750548ab8e44d1169fb87e9a0f6032349dac4ee7a18dea331ce71896315"
+      "size": 1541209,
+      "sha256": "afe1f0b529b273700e17ca0ff72de7ad6371a6405a7b81a6167930f3b8ae596e"
     },
     "manifest.webmanifest": {
       "size": 624,
@@ -20,7 +20,7 @@
     },
     "sw.js": {
       "size": 33963,
-      "sha256": "8fb8f0270d7b3c48097970ce714acebe52c8159e1815d92486f4e2bffb614b52"
+      "sha256": "cd71ef9bf484f3e395ca29d463ab100069144e5343035ff062caae190f4ed062"
     },
     "werewolf/audio/ballot/v1/ballot-enderman.wav": {
       "size": 180816,
